@@ -1,0 +1,25 @@
+{
+  "name": "projeto_api_express",
+  "version": "1.0.0",
+  "description": "Api feita com Express",
+  "main": "src/servidor.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Douglas-00/Projeto_Api_Express.git"
+  },
+  "author": "Douglas alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Douglas-00/Projeto_Api_Express/issues"
+  },
+  "homepage": "https://github.com/Douglas-00/Projeto_Api_Express#readme",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.2",
+    "nodemon": "2.0.12"
+  }
+}
